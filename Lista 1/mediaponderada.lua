@@ -1,0 +1,13 @@
+local p1, p2, matricula, n1, n2, media
+io.write("Peso da P1: ")
+p1 = io.read()
+io.write("Peso da P2: ")
+p2 = io.read()
+io.write("Matrícula: ")
+matricula = io.read()
+io.write("Nota da P1: ")
+n1 = io.read()
+io.write("Nota da P2: ")
+n2 = io.read()
+media = ((p1 * n1) + (p2 * n2))/(p1 + p2)
+io.write("Matrícula: ", matricula, "\n Média: ",media, "\n")

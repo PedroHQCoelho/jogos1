@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="free_tileset_version_10" tilewidth="32" tileheight="32">
+  <image source="free_tileset_version_10.png" width="480" height="1216"/>
+  <tile id="1">
+   <properties>
+    <property name="obstacle" value="1"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="door" value="2"/>
+    <property name="doorx" value="69"/>
+    <property name="doory" value="19"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Terreno" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYGBgHMWDFksAsTARWJJI8zSBWIcIrEmCefxE4FHz6GOeOhBLAbEIkl5lqBgy1iDSPBkGSHrQRjIPJoaMtYk0bxQPLwwAqUfQ6kAGAAA=
+  </data>
+ </layer>
+ <layer name="Objetos" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAUjERgBsTES/xojA4M1kLYh0zxHIHZCM88LSHuTaR42EAnEUWTqNQBiQyq6xR6IHahoHjaQAcSZNLZjFIwCSgAAiha/ykAGAAA=
+  </data>
+ </layer>
+ <layer name="Itens" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjgLbgGuNAu2AUjIJRQAsAANJk4aRABgAA
+  </data>
+ </layer>
+ <layer name="Colisao" width="20" height="20" opacity="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYGBgHMWDFjORgAfKPEYcepjQ5EkxD5/byTGPkJ8G2jxq+hfdbdRKLxxQTIl5o3h4YQA4muguQAYAAA==
+  </data>
+ </layer>
+</map>

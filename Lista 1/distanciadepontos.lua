@@ -1,0 +1,11 @@
+local x1, x2, y1, y2, distancia
+io.write ("Informe a coordenada do ponto P no eixo X: ")
+x1 = io.read()
+io.write ("Informe a coordenada do ponto P no eixo Y: ")
+y1 = io.read()
+io.write ("Informe a coordenada do ponto Q no eixo X: ")
+x2 = io.read()
+io.write ("Informe a coordenada do ponto Q no eixo Y: ")
+y2 = io.read()
+distancia = math.sqrt((x2 - x1)^2 + (y2 - y1)^2)
+io.write("A distância entre os dois pontos é ",distancia, "\n")
