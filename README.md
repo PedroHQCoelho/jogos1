@@ -1,10 +1,10 @@
-# Jogos 1 — UERJ (2016.1)
+# Jogos 1 — UERJ (2016.2)
 
 Coleção de exercícios e pequenos projetos desenvolvidos em **Lua** durante a disciplina **Jogos 1**, na graduação em Engenharia de Computação da **Universidade do Estado do Rio de Janeiro (UERJ)**.
 
 Os trabalhos foram desenvolvidos como atividades acadêmicas e experimentos práticos, utilizando principalmente o framework **LÖVE (Love2D)** e o ambiente de desenvolvimento **ZeroBrane Studio**. O repositório reúne desde exercícios introdutórios de programação até protótipos com animação, colisão, física, mapas e mecânicas de jogo.
 
-> Este repositório preserva trabalhos acadêmicos de 2016.1. O código tem caráter histórico e educacional, e não representa necessariamente os padrões ou tecnologias que utilizo atualmente.
+> Este repositório preserva trabalhos acadêmicos de 2016.2. O código tem caráter histórico e educacional, e não representa necessariamente os padrões ou tecnologias que utilizo atualmente.
 
 ## Conteúdo do repositório
 
@@ -98,13 +98,13 @@ Os exercícios da pasta `Lista 1` são scripts Lua de terminal e podem ser execu
 
 ## Contexto acadêmico
 
-Estes projetos foram desenvolvidos durante a disciplina **Jogos 1**, no período **2016.1**, como parte da graduação em Engenharia de Computação na UERJ. Foram oportunidades para praticar fundamentos de programação e explorar conceitos de desenvolvimento de jogos, como animação, interação, colisão, física, mapas e organização de código.
+Estes projetos foram desenvolvidos durante a disciplina **Jogos 1**, no período **2016.2**, como parte da graduação em Engenharia de Computação na UERJ. Foram oportunidades para praticar fundamentos de programação e explorar conceitos de desenvolvimento de jogos, como animação, interação, colisão, física, mapas e organização de código.
 
 ---
 
 **Autor:** Pedro Coelho  
 **Curso:** Engenharia de Computação — UERJ  
-**Disciplina:** Jogos 1 — 2016.1  
+**Disciplina:** Jogos 1 — 2016.2  
 **Linguagem:** Lua  
 **Ambiente de desenvolvimento:** ZeroBrane Studio
 
